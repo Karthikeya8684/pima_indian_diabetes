@@ -33,8 +33,7 @@ pima_indian_diabetes/
 ├── Untitled1.ipynb      # Model training notebook
 
 ## 📊 Input Features
-
-- Pregnancies  
+  
 - Glucose  
 - Blood Pressure  
 - Skin Thickness  
