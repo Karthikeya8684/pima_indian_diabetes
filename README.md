@@ -7,7 +7,6 @@ An interactive web application that predicts the probability of diabetes using a
 ![image](https://github.com/user-attachments/assets/f23188df-4494-426e-b62c-ad45e0838640)
 
 
-
 ## 🚀 Features
 
 - Predicts diabetes probability using medical input data  
